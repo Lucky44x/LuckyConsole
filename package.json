@@ -1,0 +1,14 @@
+{
+  "name": "de.lucky44.lucky-console",
+  "displayName": "LuckyConsole",
+  "version": "1.0.0",
+  "description": "A simple Console tool for unity, to make it easy for developers to create commands for their game",
+  "unity": "2020.3",
+  "type": "tool",
+  "unityRelease": "13f1",
+  "keywords": ["tools","extensions","lucky","console"],
+  "author": {
+      "name": "Nick Balischewski",
+      "email": "nickbali06@gmail.com"
+  }
+}

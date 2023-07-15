@@ -1,0 +1,18 @@
+{
+    "name": "de.lucky44.console-editor",
+    "rootNamespace": "Lucky44.ConsoleEditor",
+    "references": [
+        "GUID:139f5fda175ab8e4ba61cf3370fa1b95"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": true,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
